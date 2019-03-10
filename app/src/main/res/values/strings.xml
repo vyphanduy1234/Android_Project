@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My_project</string>
+    <string name="app_name">Home Shopping</string>
+    <string name="login_message">Username or Password is incorrect</string>
+    <string name="register_message_invalid_user_name">Username has existed</string>
+    <string name="register_message_invalid_password">Password not match</string>
+    <string name="register_message_invalid_email">Email not exist</string>
 </resources>
