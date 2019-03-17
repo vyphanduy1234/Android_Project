@@ -49,7 +49,7 @@
                 android:layout_marginRight="40dp"
                 android:layout_alignParentBottom="true"
                 android:layout_marginBottom="8dp"
-                android:visibility="visible"
+                android:visibility="gone"
                 />
             <customfonts.MyEditText
                 android:id="@+id/usrusr"
