@@ -52,7 +52,7 @@
                 android:visibility="gone"
                 />
             <customfonts.MyEditText
-                android:id="@+id/usrusr"
+                android:id="@+id/txt_user_name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Username"
@@ -73,7 +73,7 @@
                 android:layout_height="1dp"
                 android:background="#ADCCE2" />
             <customfonts.MyEditText
-                android:id="@+id/pswrd"
+                android:id="@+id/txt_password"
                 android:textSize="16dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
                 android:layout_marginBottom="10dp"
                 android:background="#ADCCE2"/>
             <customfonts.MyTextView
-                android:id="@+id/sin"
+                android:id="@+id/btn_login"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/angle"
