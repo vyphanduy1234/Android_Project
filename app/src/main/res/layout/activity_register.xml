@@ -18,7 +18,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/sback"
+                android:id="@+id/btn_back"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -40,7 +40,7 @@
             android:orientation="vertical">
 
             <customfonts.MyTextView
-                android:id="@+id/register_message"
+                android:id="@+id/txt_register_message"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="40dp"
